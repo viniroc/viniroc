@@ -1,4 +1,11 @@
-### salve
+### meu nome e vinicus 
+
+ - estou estudando no alura
+ - estou me desenvolvem no javaScript
+ - ultilizo este espaço para minha organizaçao e compartilhamento dos meus trabalhos
+
+*ENTRAR EM CONTATO COMIGO*
+@
 
 <!--
 **viniroc/viniroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
