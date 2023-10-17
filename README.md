@@ -5,7 +5,7 @@
  - ultilizo este espaço para minha organizaçao e compartilhamento dos meus trabalhos
 
 *ENTRAR EM CONTATO COMIGO*
-@
+@vinicius.rocha.silva28@escola.pr.gov.br
 
 <!--
 **viniroc/viniroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
